@@ -59,6 +59,7 @@ def time_stats(df):
 
     # display the most common start hour
 
+    #Another comment: I have added a comment here to test the git commit functionality.
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
